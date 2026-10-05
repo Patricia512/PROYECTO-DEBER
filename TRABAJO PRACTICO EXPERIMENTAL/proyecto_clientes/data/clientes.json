@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "email": "jperez@gmail.com",
+    "telefono": "0928188457",
+    "ciudad": "Guayaquil",
+    "direccion": "9 de Octubre"
+  },
+  {
+    "id": 2,
+    "nombre": "Carla",
+    "apellido": "Garcia",
+    "email": "cgarcia@gmail.com",
+    "telefono": "",
+    "ciudad": "Milagro",
+    "direccion": "Bellavista"
+  }
+]

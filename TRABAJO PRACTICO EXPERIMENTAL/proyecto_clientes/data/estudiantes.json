@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Clara",
+    "apellido": "Guevara",
+    "email": "cguevara@gmail.com",
+    "carnet": "2020A22",
+    "notas": {
+      "Caligrafia": [
+        18.0
+      ],
+      "Matematica": [
+        2.0
+      ],
+      "Lenguaje": [
+        20.0
+      ],
+      "Sociales": [
+        20.0
+      ]
+    },
+    "materias": [
+      "Caligrafia",
+      "Lenguaje",
+      "Matematica",
+      "Sociales"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Gabrie",
+    "apellido": "Montoya",
+    "email": "gmontoya@gmail.com",
+    "carnet": "234B23",
+    "notas": {
+      "Matematica": [
+        2.0
+      ]
+    },
+    "materias": [
+      "Matematica"
+    ]
+  }
+]
